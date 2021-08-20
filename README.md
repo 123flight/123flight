@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-#### changelog
-
 2021:
 
 - 🌱 I’m currently learning JS language.
