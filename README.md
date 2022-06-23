@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/123flight/123flight/blob/output/github-contribution-grid-snake.gif)
 
-2021:
+2022:
 
 - 🌱 I’m currently learning JS language.
 
@@ -21,7 +21,7 @@
 
 Here are some ideas to get you started:
 
-2021:
+2022:
 
 
 
