@@ -4,7 +4,7 @@
 
 2022:
 
-- 🌱 I’m currently learning JS language.
+- 🌱 I’m currently learning Korean language language.
 
 <p align="center">
   <a href="https://github.com/123flight">
