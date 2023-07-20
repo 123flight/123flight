@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/123flight/123flight/blob/output/github-contribution-grid-snake.gif)
 
-2022:
+2023:
 
 - 🌱 I’m currently learning Korean language.
 - 🎨 I'm using React.
